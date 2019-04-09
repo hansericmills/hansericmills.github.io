@@ -1,5 +1,6 @@
 @import 'config';
 @import 'menu';
+@import 'mobile';
 
 * {
   box-sizing: border-box;
@@ -18,7 +19,7 @@ body {
 //Headings
 h1, h2, h3{
   margin: 0;
-  font-weight: 400;
+  font-weight: 200;
 
   &.lg-heading{
     font-size: 6rem;
