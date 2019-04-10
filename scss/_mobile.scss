@@ -15,7 +15,13 @@
 
         .lg-heading{
             line-height: 1;
-            margin-bottom: 1rem;
+            margin-bottom: 1rem;            
+        }
+        h1.lg-heading{
+            font-size: 3rem;           
+        }
+        h2.sm-heading{
+            font-size: 1rem;           
         }
     }
 
