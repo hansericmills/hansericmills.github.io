@@ -1,7 +1,7 @@
 {
-  "name": "traversy-portfolio",
+  "name": "hans-traversy-portfolio",
   "version": "1.0.0",
-  "description": "traversy portfolio example",
+  "description": "hans-traversy portfolio example",
   "main": "index.js",
   "homepage": "https://hansericmills.github.io/home",
   "scripts": {
