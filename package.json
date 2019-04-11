@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "traversy portfolio example",
   "main": "index.js",
-  "homepage": "https://hansericmills.github.io",
+  "homepage": "https://hansericmills.github.io/portfolio",
   "scripts": {
     "sass": "node-sass -w scss/ -o dist/css/ --recursive",
     "deploy": "gh-pages -d dist"
