@@ -15,6 +15,10 @@
 //Tablets and Small Laptops
 @include mediaMd{
     main{
+        padding:2rem;
+        #home h1{
+            margin-top: 10vh;
+        }
         align-items: center;
         text-align: center;
 
