@@ -60,5 +60,9 @@
 
 //Smartphones
 @include mediaSm{
+     main{
+        align-items: center;
+        text-align: center;
+     }
     margin-top: 10vh;
 }

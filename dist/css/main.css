@@ -215,4 +215,7 @@ main {
     grid-template-columns: 1fr; } }
 
 @media screen and (max-width: 500) {
+  main {
+    align-items: center;
+    text-align: center; }
   margin-top: 10vh; }
