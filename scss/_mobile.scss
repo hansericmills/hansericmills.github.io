@@ -18,7 +18,7 @@
             margin-bottom: 1rem;            
         }
         h1.lg-heading{
-            font-size: 2rem;           
+            font-size: 4rem;           
         }
         h2.sm-heading{
             font-size: 1rem;           
@@ -50,6 +50,11 @@
             width: 150px;
             height: 150px;
         }
+    }
+
+    .about-info{
+        grid-template-areas: 'bioimage' 'bio' 'job1' 'job2' 'job3';
+        grid-template-columns: 1fr;
     }
 }
 
